@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: lusiusfebry/python-helloworld:latest
+          tags: lusiusfebry/python-helloworld:v.2.0.0
